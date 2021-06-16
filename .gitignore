@@ -1,0 +1,40 @@
+# OS Files
+.DS_Store
+.DS_Store?
+
+# Vim files
+*.sw[mnop]
+
+# Raw Data directory
+data/
+
+# Formatting the Raider data
+_Sample_Data.ipynb
+
+# Getting the data from the Leffe server
+rsync.zsh
+.rsyncignore
+
+# Gdal files
+*.xml
+*.tif
+*.shp
+*.sbx
+*.sbn
+*.shx
+*.prj
+*.qpj
+*.dbf
+*.cpg
+
+# VS Code
+*.vscode
+
+# Rope Files
+.ropeproject/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter files
+*.ipynb_checkpoints
